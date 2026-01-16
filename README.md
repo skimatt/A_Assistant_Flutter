@@ -1,6 +1,4 @@
-# ai_assistant
 
-<!-- Avatars -->
 <p align="center">
   <img src="https://api.dicebear.com/7.x/notionists/svg?seed=Rahmatmulia&backgroundColor=transparent" width="120" alt="Rahmat Mulia" />
   <img src="https://api.dicebear.com/7.x/notionists/svg?seed=Programmer&backgroundColor=transparent" width="120" alt="Programmer" />
